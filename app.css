@@ -31793,6 +31793,7 @@ select {
 .style-time{
     border-left: solid 10px #4cba72;
     padding-left: 10px;
+    display: inline-flex;
 }
 .justify-content-flex-end{
     -webkit-box-pack: end!important;
